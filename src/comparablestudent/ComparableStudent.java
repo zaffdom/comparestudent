@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * This class is to demonstrate working with Comparable 
  * and Comparator interfaces
- *
+ *random changes
  * @author Paul Bonenfant
  */
 public class ComparableStudent {
